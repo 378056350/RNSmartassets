@@ -1,0 +1,25 @@
+{
+  "name": "RNSmartassets",
+  "version": "1.0.1",
+  "summary": "RNSmartassets",
+  "description": "RNSmartassets",
+  "homepage": "https://github.com/378056350/RNSmartassets.git",
+  "license": "MIT",
+  "authors": {
+    "author": "author@domain.cn"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/378056350/RNSmartassets.git",
+    "tag": "master"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

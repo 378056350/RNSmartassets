@@ -40,6 +40,10 @@ RCT_EXPORT_METHOD(travelDrawable:(NSString *)bundlePath callBack:(RCTResponseSen
              };
 }
 
++ (BOOL)requiresMainQueueSetup {
+    return true;
+}
+
 @end
 
 
